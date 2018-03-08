@@ -5,20 +5,20 @@
 - Implements `LocationsViewController`
 - Placeholders for `PhotoMapViewController` and `FullImageViewController`
 
-# Lab 6 - *Name of App Here*
+# Lab 6 - *PicturePlace*
 
-**Name of your app** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
+**PicturePlace** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [ ] User can view a map (+2pt)
-- [ ] User can take a photo (+1pt)
-- [ ] User can tag a location (+1pt)
-- [ ] User can drop a pin with image annotation (+1pt)
+- [x ] User can view a map (+2pt)
+- [x ] User can take a photo (+1pt)
+- [x ] User can tag a location (+1pt)
+- [x ] User can drop a pin with image annotation (+1pt)
 
 The following **stretch** user stories are implemented:
 
